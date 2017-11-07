@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LAB_6.AttributeClass">
+    <Position X="4.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AttributeClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6.Box">
+    <Position X="1" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAAAAAAEQAQAAAAAAAAAAAAAIAAAJAAAAAAAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6.Program">
+    <Position X="1" Y="0.5" Width="6" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="LAB_6.Program.AreaOrPerimeter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABQAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

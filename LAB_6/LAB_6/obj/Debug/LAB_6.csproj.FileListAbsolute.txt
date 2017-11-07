@@ -1,0 +1,7 @@
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\obj\Debug\LAB_6.csprojResolveAssemblyReference.cache
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\obj\Debug\LAB_6.csproj.CoreCompileInputs.cache
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\bin\Debug\LAB_6.exe.config
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\bin\Debug\LAB_6.exe
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\bin\Debug\LAB_6.pdb
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\obj\Debug\LAB_6.exe
+E:\Univer\BKIT\LAB_6\LAB_6\LAB_6\obj\Debug\LAB_6.pdb
